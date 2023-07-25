@@ -3,6 +3,8 @@
 <div align="center">
   <h3>Hi there👋, I'm Lim Dong Wan</h3>
   <p><p>
+  Under construction...
+  <p><p>
   Feel free to hit me up on any social media if you need me hehe :)
     
   <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
