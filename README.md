@@ -9,15 +9,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
-  <h3>Hi there👋, I'm Boon Hian</h3>
-  I'm just a normal comp sci student.
-  <p><p>
-  The projects I usually work on are usually utility stuff, school projects or random game ideas.
+  <h3>Hi there👋, I'm Lim Dong Wan</h3>
   <p><p>
   Feel free to hit me up on any social media if you need me hehe :)
-  
-  <a href="https://discord.com/users/448704320188317697"><img height="30" src="https://i.redd.it/6jupfeilyhx71.jpg"></a> 
-  <a href="https://www.linkedin.com/in/boon-hian-lim-88b565218/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 </div>
 
 <h2>📊 Git Stats:</h2>
@@ -70,33 +64,6 @@
   <img />
   </picture>
 </div>
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
