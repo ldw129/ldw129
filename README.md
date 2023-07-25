@@ -18,10 +18,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=ldw129&show_icons=true&theme=radical&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ldw129&show_icons=true&theme=default&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img />
   </picture>
 </div>
@@ -47,10 +43,6 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=default#gh-light-mode-only"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img />
   </picture>
