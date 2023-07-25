@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
-  <h3>Hi there👋, I'm Lim Dong Wan</h3>
+  <h3>Hi there👋, I'm Lim Dong Wan from NTU SCSE!</h3>
   <p><p>
   Under construction...
   <p><p>
