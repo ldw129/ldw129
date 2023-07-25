@@ -4,6 +4,9 @@
   <h3>Hi there👋, I'm Lim Dong Wan</h3>
   <p><p>
   Feel free to hit me up on any social media if you need me hehe :)
+
+  <a href="https://discord.com/users/448704320188317697"><img height="30" src="https://i.redd.it/6jupfeilyhx71.jpg"></a> 
+  <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 </div>
 
 <h2>📊 Git Stats:</h2>
