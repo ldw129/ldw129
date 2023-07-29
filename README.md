@@ -27,9 +27,13 @@
     srcset="https://github-readme-stats.vercel.app/api?username=ldw129&show_icons=true&theme=default&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <source
-    srcst="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D"
-  />
+  </picture>
+</div>
+<div align="center">
+  <picture>
+    <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D"
+    />
   </picture>
 </div>
 [![GitHub Streak][Github-streak]][Github-streak-url]
