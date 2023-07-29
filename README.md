@@ -1,8 +1,5 @@
 <a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Discord][discord-shield]][discord-url]
-
 <div align="center">
   <h1>Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
   <p><p>
@@ -14,6 +11,10 @@
   Feel free to connect with me through the above channels! :)
   <p><p>
   Email: limdongwan201528@gmail.com
+
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Discord][discord-shield]][discord-url]
+    
 </div>
 
 <h2>🔥 GitHub Stats:</h2>
