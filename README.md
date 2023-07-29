@@ -18,7 +18,8 @@
 </div>
 
 <h2> 👨‍💻 About Me</h2>
-
+<div align="justified">
+  <i>(Under construction...)</i>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
   
