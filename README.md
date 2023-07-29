@@ -29,8 +29,8 @@
   />
   <img />
   </picture>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
+[![GitHub Streak][Github-streak]][Github-streak-url]
 
 <h2>💻 Tech Stack:</h2>
 <div align="left">
@@ -73,3 +73,5 @@
 [views-shield]: https://img.shields.io/badge/Profile%20views-blue?logoColor=white&labelColor=555
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Github-streak]: https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D
+[Github-streak-url]: https://git.io/streak-stats
