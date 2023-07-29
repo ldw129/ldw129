@@ -4,6 +4,7 @@
 <div align="center">
   <h3>Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
   <p><p>
+  [![Views][views-shield]]
   <i>(Under construction...)</i>
   <p><p>
 </div>
@@ -70,5 +71,6 @@
 [linkedin-url]: https://www.linkedin.com/in/lim-dong-wan-706605218/
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: https://discord.com/channels/1070705880041000960/1070705880041000963
+[views-shield]: https://img.shields.io/badge/Profile%20views-blue?logoColor=white&labelColor=555
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
