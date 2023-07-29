@@ -19,7 +19,7 @@
 
 <h2> About Me</h2>
 
-<h2>🔥 GitHub Stats:</h2>
+<h2>🔥 GitHub Stats</h2>
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -28,7 +28,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2>💻 Tech Stack:</h2>
+<h2>💻 Tech Stack</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
