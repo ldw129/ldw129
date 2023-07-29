@@ -14,7 +14,7 @@
 </div>
 
 <h2>📊 GitHub Stats:</h2>
-<div align="center">
+<div align="left">
   
   <picture>
   <source
