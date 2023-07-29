@@ -4,7 +4,7 @@
 <div align="center">
   <h3>Welcome to my GitHub!👋</h3>
   <p><p>
-  Under construction...
+  <i>(Under construction...)</i>
   <p><p>
   I am Lim Dong Wan, currently a Year 3 NTU B(Eng) Computer Science student.
   <p><p>
