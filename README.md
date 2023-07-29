@@ -1,4 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Discord][discord-shield]][discord-url]
 
 <div align="center">
   <h3>Hi there👋, I'm Lim Dong Wan from NTU SCSE!</h3>
@@ -69,6 +70,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lim-dong-wan-706605218/
+[discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.com/channels/1070705880041000960/1070705880041000963
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
