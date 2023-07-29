@@ -17,6 +17,8 @@
     
 </div>
 
+<h2> About Me</h2>
+
 <h2>🔥 GitHub Stats:</h2>
 <div align="center">
   
