@@ -16,7 +16,7 @@
   Email: limdongwan201528@gmail.com
 </div>
 
-<h2>📊 GitHub Stats:</h2>
+<h2>🔥 GitHub Stats:</h2>
 <div align="center">
   
   <picture>
