@@ -17,7 +17,7 @@
     
 </div>
 
-<h2> :woman_technologist: About Me</h2>
+<h2> 👨‍💻 About Me</h2>
 
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
