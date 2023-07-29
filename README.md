@@ -30,11 +30,9 @@
   </picture>
 </div>
 <div align="center">
-  <picture>
-    <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D"
-    />
-  </picture>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
 </div>
 [![GitHub Streak][Github-streak]][Github-streak-url]
 
