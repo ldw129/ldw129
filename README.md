@@ -44,7 +44,9 @@
   <br>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 <p><p>
-  <picture>
+</div>
+<div align="center">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
