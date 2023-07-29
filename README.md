@@ -5,7 +5,7 @@
   <p><p>
   Under construction...
   <p><p>
-  Feel free to hit me up on any social media if you need me hehe :)
+  Feel free to connect with me through the following channels! :)
     
   <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 </div>
