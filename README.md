@@ -6,10 +6,13 @@
   <p><p>
   <i>(Under construction...)</i>
   <p><p>
+</div>
+<div align="justified">
   I am Lim Dong Wan, currently a Year 3 NTU B(Eng) Computer Science student.
-  <p><p>
   Feel free to connect with me through the above channels! :)
   <p><p>
+</div>
+<div align="center">
   Email: limdongwan201528@gmail.com
 </div>
 
