@@ -4,7 +4,8 @@
 <div align="center">
   <h3>Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
   <p><p>
-  [![Views][views-shield]]
+  <img src="https://img.shields.io/badge/Profile%20views-blue?logoColor=white&labelColor=555" />
+  <p><p>
   <i>(Under construction...)</i>
   <p><p>
 </div>
