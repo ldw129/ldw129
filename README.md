@@ -71,10 +71,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-url]: https://www.linkedin.com/in/lim-dong-wan-706605218/
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: https://discord.com/channels/1070705880041000960/1070705880041000963
-[product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
