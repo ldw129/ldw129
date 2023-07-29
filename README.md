@@ -18,7 +18,6 @@
 
 <h2>🔥 GitHub Stats:</h2>
 <div align="center">
-  
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ldw129&show_icons=true&theme=radical&rank_icon=github"
@@ -30,6 +29,7 @@
   />
   <img />
   </picture>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 <h2>💻 Tech Stack:</h2>
