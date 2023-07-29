@@ -28,8 +28,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   </picture>
-</div>
-<div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
