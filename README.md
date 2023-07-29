@@ -14,7 +14,7 @@
 </div>
 
 <h2>📊 GitHub Stats:</h2>
-<div align="left">
+<div align="center">
   
   <picture>
   <source
@@ -30,7 +30,7 @@
 </div>
 
 <h2>💻 Tech Stack:</h2>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
