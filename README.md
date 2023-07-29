@@ -2,9 +2,11 @@
 [![Discord][discord-shield]][discord-url]
 
 <div align="center">
-  <h3>Hi there👋, I'm Lim Dong Wan from NTU SCSE!</h3>
+  <h3>Welcome to my GitHub!👋</h3>
   <p><p>
   Under construction...
+  <p><p>
+  I am Lim Dong Wan, currently a Year 3 NTU B(Eng) Computer Science student.
   <p><p>
   Feel free to connect with me through the above channels! :)
   <p><p>
