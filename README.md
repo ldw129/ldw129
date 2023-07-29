@@ -67,7 +67,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/lim-dong-wan-706605218/
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: https://discord.com/channels/1070705880041000960/1070705880041000963
