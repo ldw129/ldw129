@@ -6,9 +6,8 @@
   <p><p>
   Under construction...
   <p><p>
-  Feel free to connect with me through the following channels! :)
-    
-  <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+  Feel free to connect with me through the above channels! :)
+  
 </div>
 
 <h2>📊 Git Stats:</h2>
