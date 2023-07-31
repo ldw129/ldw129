@@ -24,7 +24,7 @@
 
 - Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
 - Certified Ethical Hacker (passed CEH v11 couse by EC-Council in 2021)
-- In my free time, I read up on the latest cyber news, watch YouTube videos on networking, programming and cybersecurity, as well as getting my hands dirty be it through completing online cyber courses or self-exploration
+- In my free time, I read up on the latest cyber news, watch YouTube videos on networking, programming and cybersecurity, and getting my hands dirty through online cyber courses and tutorials as well as CTF's
 </div>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
@@ -81,6 +81,5 @@
 [linkedin-url]: https://www.linkedin.com/in/lim-dong-wan-706605218/
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: https://discord.com/channels/1070705880041000960/1070705880041000963
-[views-shield]: https://img.shields.io/badge/Profile%20views-blue?logoColor=white&labelColor=555
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
