@@ -40,6 +40,8 @@
   <i>(Under construction...)</i>
 </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <h2>💻 Tech Stack</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
