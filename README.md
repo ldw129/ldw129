@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
   <br>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-pale%20green?style=for-the-badge&logo=MongoDB&logoColor=green&labelColor=black&color=pale%20green" />
 <p><p>
 </div>
 <div align="center">
