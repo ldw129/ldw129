@@ -8,7 +8,7 @@
 </div>
 <div align="justified">
   I am Lim Dong Wan, currently a Year 3 NTU B(Eng) Computer Science student.
-  Feel free to connect with me through the above channels! :)
+  Feel free to connect with me through the following channels! :)
   <p><p>
   Email: limdongwan201528@gmail.com
 
@@ -20,6 +20,8 @@
 <h2> 👨‍💻 About Me</h2>
 <div align="justified">
   <i>(Under construction...)</i>
+  * This is me!
+</div>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
   
