@@ -22,8 +22,9 @@
   <i>(Under construction...)</i>
   <p><p>
 
-- Year 3 NTU B(Eng) Computer Science Undergraduate student
-- Certified Ethical Hacker
+- Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
+- Certified Ethical Hacker (passed CEH v11 couse by EC-Council in 2021)
+- In my free time, I read up on the latest cyber news, watch YouTube videos on networking, programming and cybersecurity, as well as getting my hands dirty be it through online cyber courses or self-exploration
 </div>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
