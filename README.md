@@ -35,7 +35,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2> Certifications</h2>
+<h2> 📚 Certifications</h2>
 <div align="justified">
   <i>(Under construction...)</i>
 </div>
