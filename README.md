@@ -7,7 +7,7 @@
   <p><p>
 </div>
 <div align="justified">
-  I am Lim Dong Wan, currently a Year 3 NTU B(Eng) Computer Science student.
+  Hello! I am Lim Dong Wan, a curious and meticulous a Year 3 NTU B(Eng) Computer Science student with a growing interest in the field of cybersecurity and networking.
   Feel free to connect with me through the following channels! :)
   <p><p>
   Email: limdongwan201528@gmail.com
@@ -21,7 +21,8 @@
 <div align="justified">
   <i>(Under construction...)</i>
   <p><p>
-  - This is me!
+
+- This is me!
 </div>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
