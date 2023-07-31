@@ -21,7 +21,7 @@
 <div align="justified">
   <i>(Under construction...)</i>
   <p><p>
-  * This is me!
+  - This is me!
 </div>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
