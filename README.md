@@ -6,7 +6,7 @@
   <i>(Under construction...)</i>
   <p><p>
 </div>
-<div align="justified">
+<div align="justify">
   Hello! I am Lim Dong Wan, a curious and meticulous Penultimate Year NTU B(Eng) Computer Science Undergraduate student with a flair for Mathematics and a growing interest in the field of cybersecurity and networking. I officially started learning computing and programming concepts in mid-2020, with my first programming language learned being Python. Thereafter, I progressively expanded my knowledge of computing into other programming languages like Java, C and C++, as well as other fields like networking, cybersecurity and artificial intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as programming logic and networking. However, I do believe that there is still much more for me to learn in this field.
   <p><p>
   I believe in lifelong learning, especially in this growing and ever-changing field.
