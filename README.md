@@ -27,7 +27,7 @@
 
 - Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
 - Certified Ethical Hacker (passed CEH v11 couse by EC-Council in 2021)
-- In my free time, I read up on the latest cyber news, watch YouTube videos on networking, programming and cybersecurity, and getting my hands dirty through online cyber courses and tutorials as well as CTF's
+- In my free time, I read up on the latest cyber news, watch YouTube videos on networking, programming and cybersecurity, and trying out online cyber courses, tutorials as well as CTF's
 </div>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
