@@ -54,6 +54,9 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=black" />
+  <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS" />
   <br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
