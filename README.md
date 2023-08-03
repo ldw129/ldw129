@@ -59,19 +59,6 @@
   <img src="https://img.shields.io/badge/npm-555?style=for-the-badge&logo=npm&logoColor=red&labelColor=555&color=555" />
 <p><p>
 </div>
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=default#gh-light-mode-only"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img />
-  </picture>
-</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
