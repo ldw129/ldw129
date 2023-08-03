@@ -39,6 +39,9 @@
 <h2> 📚 Certifications</h2>
 <div align="justified">
   <i>(Under construction...)</i>
+  <p><p>
+
+  - EC-Council Certified Ethical Hacker (Dec 2021)
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
