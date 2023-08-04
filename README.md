@@ -25,7 +25,7 @@
 - Certified Ethical Hacker (passed CEH v11 course by EC-Council in 2021)
 - Python is my first programming language learned
 - 3 years of computing experience thus far
-- In my free time, I read up on the latest cyber and tech news, watch tutorial videos on networking, programming and cybersecurity, and trying out online cyber courses as well as CTF's.
+- In my free time, I read up on the latest cyber and tech news, watch tutorial videos on networking, programming and cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
 </div>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
