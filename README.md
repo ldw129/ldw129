@@ -72,16 +72,19 @@
   <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react-5b7700?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/selenium-8b0080?style=for-the-badge&logo=selenium" />
   <img src="https://img.shields.io/badge/flask-7C96AB?style=for-the-badge&logo=flask" />
   <br>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Npm-555?style=for-the-badge&logo=Npm" />
+  <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
   <img src="https://img.shields.io/badge/WireShark-blue?style=for-the-badge&logo=Wireshark" />
   <img src="https://img.shields.io/badge/Splunk-pale_green?style=for-the-badge&logo=Splunk" />
+  <img src="https://img.shields.io/badge/Socket.io-701430?style=for-the-badge&logo=socketdotio" /> 
+  <img src="https://img.shields.io/badge/mongodb-536AB0?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/googlemaps-fbff80?style=for-the-badge&logo=googlemaps" />
   <br>
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows11" />
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&labelColor=black" />
