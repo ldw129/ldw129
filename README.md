@@ -111,8 +111,9 @@
   | S/N | Academic Projects | Completion Date | Repo |
   | :---: | --- | :---: | :---: |
   | 1. | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
-  | 2. | CC0002 Navigating The Digital World (term paper): Reasons Behind Rise of Cyber Attacks and Measures to Mitigate Them | Apr 2022 | [CC0002-link]
+  | 2. | CC0002 Navigating The Digital World (Term Paper): Reasons Behind Rise of Cyber Attacks and Measures to Mitigate Them | Apr 2022 | [CC0002-link]
   | 3. | SC2002 Object-Oriented Design & Programming: MOBLIMA | Nov 2022 | [SC2002-link]
+  | 4. | CC0007 Science & Technology For Humanity (Final Project): Combatting Voyeurism with AI | Nov 2022 | [CC0007-link]
   | 4. | SC2006 Software Engineering: TripSmart App | Apr 2023 | [SC2006-link]
 
 </div>
