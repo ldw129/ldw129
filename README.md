@@ -40,8 +40,11 @@
 <div align="justified">
   <i>(Under construction...)</i>
   <p><p>
-
-  - EC-Council Certified Ethical Hacker (Dec 2021)
+    
+  | Certifications | Completion Date |
+  | -------------- | --------------- |
+  | Certified Ethical Hacker v11 (CEH) | Dec 2021 |
+    
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
