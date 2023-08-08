@@ -18,8 +18,9 @@
     
 </div>
 
+<a name="About Me"></a>
 <h2> 👨‍💻 About Me</h2>
-<div align="justified">
+<div align="justify">
 
 - Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
 - Certified Ethical Hacker &rarr; see more in <a href="#Certifications">here</a>
@@ -27,6 +28,10 @@
 - 3 years of computing experience thus far (since 2020) &rarr; see more in [linkedin]
 - In my free time, I read up on the latest cyber and tech news, watch tutorial videos on networking, programming and cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
 </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<a name="GitHub Stats"></a>
 <h2>🔥 GitHub Stats</h2>
 <div align="center">
   
@@ -38,9 +43,13 @@
 
 <a name="Certifications"></a>
 <h2> 📚 Certifications</h2>
-<div align="center">
-  <p><p>
+<div align="justify">
 
+  - Professional Certifications:
+
+</div>
+<div align="center">
+  
   | S/N | Certifications | Completion Date | Organization | Proof |
   | :---: | --- | :---: | --- | :---: |
   | 1. | Re-Profiling Data Analytics (RDA) | Dec 2020 | Nanyang Polytechnic, School of Information Technology | [RDA-link] |
@@ -50,9 +59,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="Tech Stack"></a>
 <h2>💻 Tech Stack</h2>
 <div align="left">
-  <p></p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -95,9 +104,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="Academic Projects"></a>
 <h2>🏫 Academic Projects</h2>
 <div align="center">
-  <p></p>
 
   | S/N | Academic Projects | Completion Date | Repo |
   | :---: | --- | :---: | :---: |
@@ -110,7 +119,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin]: https://www.linkedin.com/in/lim-dong-wan-706605218/
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
