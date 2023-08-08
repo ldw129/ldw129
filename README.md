@@ -38,7 +38,6 @@
 
 <h2> 📚 Certifications</h2>
 <div align="justified">
-  <i>(Under construction...)</i>
   <p><p>
   
   | Certifications | Completion Date | Proof |
