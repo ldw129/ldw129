@@ -40,10 +40,10 @@
 <div align="justified">
   <i>(Under construction...)</i>
   <p><p>
-    
+  
   | Certifications | Completion Date | Proof |
-  | --- | :---: |
-  | Certified Ethical Hacker v11 (CEH) | Dec 2021 | <img width="533" alt="image" src="https://github.com/ldw129/ldw129/assets/78461502/d76a11e1-bd4d-4fcb-b7e7-e857176b8848"> |
+  | --- | :---: | :---: |
+  | Certified Ethical Hacker v11 (CEH) | Dec 2021 | [CEH-link]
     
 </div>
 
@@ -95,3 +95,4 @@
 [discord-url]: https://discord.com/channels/1070705880041000960/1070705880041000963
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[CEH-link]: https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png
