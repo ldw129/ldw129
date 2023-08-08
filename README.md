@@ -87,8 +87,17 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>🏫 Academic Projects</h2>
-<div align="left">
+<div align="center">
+  <p></p>
 
+  | Academic Projects | Completion Date | Repo |
+  | --- | :---: | :---: |
+  | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
+
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
@@ -98,3 +107,4 @@
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [CEH-link]: https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png
+[SC1015-link]: https://github.com/ldw129/SC1015-Customer-Personality-Analysis
