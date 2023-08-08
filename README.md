@@ -132,4 +132,4 @@
 [SC2002-link]: https://github.com/ldw129/SC2002-Group-2-MOBLIMA
 [SC2006-link]: https://github.com/ldw129/SC2006-TripSmart
 [SC2207-link]: https://drive.google.com/drive/folders/1wV5-RgJ7-zNuwaKrBWkVSwOi3Jvs302f
-[CC0002-link]: 
+[CC0002-link]: https://github.com/ldw129/ldw129/blob/main/CC0002%20Group%20Assignment_v2.docx
