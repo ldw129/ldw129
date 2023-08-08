@@ -43,7 +43,7 @@
   
   | Certifications | Completion Date | Proof |
   | --- | :---: | :---: |
-  | Certified Ethical Hacker v11 (CEH) | Dec 2021 | [![CEH-link]]
+  | Certified Ethical Hacker v11 (CEH) | Dec 2021 | [CEH-link]
     
 </div>
 
