@@ -93,7 +93,8 @@
   | S/N | Academic Projects | Completion Date | Repo |
   | :---: | --- | :---: | :---: |
   | 1. | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
-  | 2. | SC2002 Object-Oriented Design & Programming | Nov 2022 | [SC2002-link]
+  | 2. | SC2002 Object-Oriented Design & Programming: MOBLIMA | Nov 2022 | [SC2002-link]
+  | 3. | SC2006 Software Engineering: TripSmart App | Apr 2023 | [SC2006-link]
 
 </div>
 
@@ -110,3 +111,4 @@
 [CEH-link]: https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png
 [SC1015-link]: https://github.com/ldw129/SC1015-Customer-Personality-Analysis
 [SC2002-link]: https://github.com/ldw129/SC2002-Group-2-MOBLIMA
+[SC2006-link]: https://github.com/ldw129/SC2006-TripSmart
