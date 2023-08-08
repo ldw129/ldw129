@@ -42,7 +42,7 @@
   <p><p>
     
   | Certifications | Completion Date |
-  | :--- | :---: |
+  | --- | :---: |
   | Certified Ethical Hacker v11 (CEH) | Dec 2021 |
     
 </div>
