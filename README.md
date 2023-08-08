@@ -39,10 +39,11 @@
 <h2> 📚 Certifications</h2>
 <div align="center">
   <p><p>
-  
-  | S/N | Certifications | Completion Date | Proof |
-  | :---: | --- | :---: | :---: |
-  | 1. | Certified Ethical Hacker v11 (CEH) | Dec 2021 | [CEH-link]
+
+  | S/N | Certifications | Completion Date | Organization | Proof |
+  | :---: | --- | :---: | --- | :---: |
+  | 1. | Re-Profiling Data Analytics (RDA) | Dec 2020 | Nanyang Polytechnic, School of Information Technology | [RDA-link] |
+  | 2. | Certified Ethical Hacker v11 (CEH) | Dec 2021 | EC-Council | [CEH-link] |
     
 </div>
 
@@ -116,6 +117,8 @@
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [CEH-link]: https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png
+[RDA-link]: https://user-images.githubusercontent.com/78461502/258977276-38bc879a-6062-45d6-b025-52e85a3b4b1d.png
+
 [SC1015-link]: https://github.com/ldw129/SC1015-Customer-Personality-Analysis
 [SC2002-link]: https://github.com/ldw129/SC2002-Group-2-MOBLIMA
 [SC2006-link]: https://github.com/ldw129/SC2006-TripSmart
