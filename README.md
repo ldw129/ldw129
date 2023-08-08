@@ -41,7 +41,7 @@
   <i>(Under construction...)</i>
   <p><p>
     
-  | Certifications | Completion Date | Proof
+  | Certifications | Completion Date | Proof |
   | --- | :---: |
   | Certified Ethical Hacker v11 (CEH) | Dec 2021 | <img width="533" alt="image" src="https://github.com/ldw129/ldw129/assets/78461502/d76a11e1-bd4d-4fcb-b7e7-e857176b8848"> |
     
