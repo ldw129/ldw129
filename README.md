@@ -72,7 +72,7 @@
   <br>
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows11" />
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&labelColor=black" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-purple?style=for-the-badge&logo=Kali%20Linux&labelColor=555" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-purple?style=for-the-badge&logo=Kali%20Linux&logoColor=black" />
 <p><p>
 </div>
 <!--
