@@ -74,6 +74,8 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/selenium-8b0080?style=for-the-badge&logo=selenium" />
+  <img src="https://img.shields.io/badge/flask-7C96AB?style=for-the-badge&logo=flask" />
   <br>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/Npm-555?style=for-the-badge&logo=Npm" />
@@ -124,8 +126,6 @@
 [linkedin]: https://www.linkedin.com/in/lim-dong-wan-706605218/
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
 [discord]: https://discord.com/channels/1070705880041000960/1070705880041000963
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
 [CEH-link]: https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png
 [RDA-link]: https://user-images.githubusercontent.com/78461502/258977276-38bc879a-6062-45d6-b025-52e85a3b4b1d.png
 [SC1015-link]: https://github.com/ldw129/SC1015-Customer-Personality-Analysis
