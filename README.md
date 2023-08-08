@@ -40,9 +40,9 @@
 <div align="center">
   <p><p>
   
-  | Certifications | Completion Date | Proof |
-  | --- | :---: | :---: |
-  | Certified Ethical Hacker v11 (CEH) | Dec 2021 | [CEH-link]
+  | S/N | Certifications | Completion Date | Proof |
+  | --- | --- | :---: | :---: |
+  | 1. | Certified Ethical Hacker v11 (CEH) | Dec 2021 | [CEH-link]
     
 </div>
 
@@ -90,9 +90,9 @@
 <div align="center">
   <p></p>
 
-  | Academic Projects | Completion Date | Repo |
-  | --- | :---: | :---: |
-  | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
+  | S/N | Academic Projects | Completion Date | Repo |
+  | --- | --- | :---: | :---: |
+  | 1. | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
 
 </div>
 
