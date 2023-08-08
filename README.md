@@ -13,8 +13,8 @@
   <p><p>
   Email: limdongwan201528@gmail.com
 
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-  [![Discord][discord-shield]][discord-url]
+  [![LinkedIn][linkedin-shield]][linkedin]
+  [![Discord][discord-shield]][discord]
     
 </div>
 
@@ -22,9 +22,9 @@
 <div align="justified">
 
 - Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
-- Certified Ethical Hacker &rarr; see more details <a href="#Certifications">here</a>
+- Certified Ethical Hacker &rarr; see more in <a href="#Certifications">here</a>
 - Python is my first programming language learned
-- 3 years of computing experience thus far (since 2020) &rarr; see more details in my <a href=[![linkedin-url]]>LinkedIn</a>
+- 3 years of computing experience thus far (since 2020) &rarr; see more in [linkedin]
 - In my free time, I read up on the latest cyber and tech news, watch tutorial videos on networking, programming and cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
 </div>
 <h2>🔥 GitHub Stats</h2>
@@ -112,9 +112,9 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/lim-dong-wan-706605218/
+[linkedin]: https://www.linkedin.com/in/lim-dong-wan-706605218/
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: https://discord.com/channels/1070705880041000960/1070705880041000963
+[discord]: https://discord.com/channels/1070705880041000960/1070705880041000963
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [CEH-link]: https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png
