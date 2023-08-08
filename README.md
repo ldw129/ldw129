@@ -80,10 +80,12 @@
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
-  <img src="https://img.shields.io/badge/WireShark-blue?style=for-the-badge&logo=Wireshark" />
-  <img src="https://img.shields.io/badge/Splunk-pale_green?style=for-the-badge&logo=Splunk" />
   <img src="https://img.shields.io/badge/Socket.io-701430?style=for-the-badge&logo=socketdotio" /> 
   <img src="https://img.shields.io/badge/mongodb-536AB0?style=for-the-badge&logo=mongodb" />
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-555?style=for-the-badge&logo=Jupyter" />
+  <img src="https://img.shields.io/badge/WireShark-blue?style=for-the-badge&logo=Wireshark" />
+  <img src="https://img.shields.io/badge/Splunk-pale_green?style=for-the-badge&logo=Splunk" />
   <img src="https://img.shields.io/badge/googlemaps-fbff80?style=for-the-badge&logo=googlemaps" />
   <br>
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows11" />
