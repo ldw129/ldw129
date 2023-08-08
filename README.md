@@ -95,6 +95,7 @@
   | 1. | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
   | 2. | SC2002 Object-Oriented Design & Programming: MOBLIMA | Nov 2022 | [SC2002-link]
   | 3. | SC2006 Software Engineering: TripSmart App | Apr 2023 | [SC2006-link]
+  | 4. | SC2207 Introduction to Databases: Ahamazon Bookstore | Apr 2023 | [SC2207-link]
 
 </div>
 
@@ -112,3 +113,4 @@
 [SC1015-link]: https://github.com/ldw129/SC1015-Customer-Personality-Analysis
 [SC2002-link]: https://github.com/ldw129/SC2002-Group-2-MOBLIMA
 [SC2006-link]: https://github.com/ldw129/SC2006-TripSmart
+[SC2207-link]: https://drive.google.com/drive/folders/1wV5-RgJ7-zNuwaKrBWkVSwOi3Jvs302f
