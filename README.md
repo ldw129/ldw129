@@ -111,8 +111,9 @@
   | S/N | Academic Projects | Completion Date | Repo |
   | :---: | --- | :---: | :---: |
   | 1. | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
-  | 2. | SC2002 Object-Oriented Design & Programming: MOBLIMA | Nov 2022 | [SC2002-link]
-  | 3. | SC2006 Software Engineering: TripSmart App | Apr 2023 | [SC2006-link]
+  | 2. | CC0002 Navigating The Digital World (term paper): Reasons Behind Rise of Cyber Attacks and Measures to Mitigate Them | Apr 2022 | [CC0002-link]
+  | 3. | SC2002 Object-Oriented Design & Programming: MOBLIMA | Nov 2022 | [SC2002-link]
+  | 4. | SC2006 Software Engineering: TripSmart App | Apr 2023 | [SC2006-link]
 
 </div>
 
@@ -127,8 +128,8 @@
 [React-url]: https://reactjs.org/
 [CEH-link]: https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png
 [RDA-link]: https://user-images.githubusercontent.com/78461502/258977276-38bc879a-6062-45d6-b025-52e85a3b4b1d.png
-
 [SC1015-link]: https://github.com/ldw129/SC1015-Customer-Personality-Analysis
 [SC2002-link]: https://github.com/ldw129/SC2002-Group-2-MOBLIMA
 [SC2006-link]: https://github.com/ldw129/SC2006-TripSmart
 [SC2207-link]: https://drive.google.com/drive/folders/1wV5-RgJ7-zNuwaKrBWkVSwOi3Jvs302f
+[CC0002-link]: 
