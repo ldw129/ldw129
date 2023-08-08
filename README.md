@@ -37,7 +37,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2> 📚 Certifications</h2>
-<div align="justified">
+<div align="center">
   <p><p>
   
   | Certifications | Completion Date | Proof |
@@ -85,6 +85,9 @@
 -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<h2>💻 Academic Projects</h2>
+<div align="left">
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
