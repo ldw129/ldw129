@@ -22,9 +22,9 @@
 <div align="justified">
 
 - Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
-- Certified Ethical Hacker (passed CEH v11 course by EC-Council in 2021)
+- Certified Ethical Hacker &rarr; see more details <a href="#Certifications">here</a>
 - Python is my first programming language learned
-- 3 years of computing experience thus far (since 2020) &rarr; more details in my LinkedIn
+- 3 years of computing experience thus far (since 2020) &rarr; see more details in my <a href=[linkedin-url]>LinkedIn</a>
 - In my free time, I read up on the latest cyber and tech news, watch tutorial videos on networking, programming and cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
 </div>
 <h2>🔥 GitHub Stats</h2>
@@ -36,6 +36,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="Certifications"></a>
 <h2> 📚 Certifications</h2>
 <div align="center">
   <p><p>
