@@ -86,7 +86,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2>💻 Academic Projects</h2>
+<h2>🏫 Academic Projects</h2>
 <div align="left">
 
 <!-- MARKDOWN LINKS & IMAGES -->
