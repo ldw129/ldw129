@@ -66,6 +66,10 @@
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-555?style=for-the-badge&logo=npm&logoColor=red&labelColor=555&color=555" />
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+  <br>
+  <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows11" />
+  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&labelColor=black" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-purple?style=for-the-badge&logo=Kali%20Linux&labelColor=555" />
 <p><p>
 </div>
 <!--
