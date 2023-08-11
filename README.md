@@ -81,13 +81,13 @@
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/Pip-555?style=for-the-badge&logo=Pip" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /> 
   <br>
 
   - Tools:
   <img src="https://img.shields.io/badge/Jupyter-555?style=for-the-badge&logo=Jupyter" />
   <img src="https://img.shields.io/badge/WireShark-blue?style=for-the-badge&logo=Wireshark" />
   <img src="https://img.shields.io/badge/Splunk-pale_green?style=for-the-badge&logo=Splunk" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
   <br>
 
   - Operating Systems:
