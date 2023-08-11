@@ -62,6 +62,8 @@
 <a name="Tech Stack"></a>
 <h2>💻 Tech Stack</h2>
 <div align="left">
+
+  - Programming Languages:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -72,20 +74,30 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <br>
+
+  - Frameworks and Package Managers:
   <img src="https://img.shields.io/badge/react-5b7700?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
+  <img src="https://img.shields.io/badge/Pip-555?style=for-the-badge&logo=Pip" />
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /> 
-  <img src="https://img.shields.io/badge/mongodb-536AB0?style=for-the-badge&logo=mongodb" />
   <br>
+
+  - Tools:
   <img src="https://img.shields.io/badge/Jupyter-555?style=for-the-badge&logo=Jupyter" />
   <img src="https://img.shields.io/badge/WireShark-blue?style=for-the-badge&logo=Wireshark" />
   <img src="https://img.shields.io/badge/Splunk-pale_green?style=for-the-badge&logo=Splunk" />
   <br>
+
+  - Operating Systems:
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows11" />
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&labelColor=black" />
   <img src="https://img.shields.io/badge/Kali%20Linux-purple?style=for-the-badge&logo=Kali%20Linux&logoColor=black" />
+  <br>
+
+  - Cloud Databases:
+  <img src="https://img.shields.io/badge/mongodb-536AB0?style=for-the-badge&logo=mongodb" />
 <p><p>
 </div>
 <!--
