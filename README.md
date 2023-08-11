@@ -81,6 +81,7 @@
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/Pip-555?style=for-the-badge&logo=Pip" />
+  <img src="https://img.shields.io/badge/apt-555?style=for-the-badge&logo=APT" />
   <br>
 
   - Tools:
