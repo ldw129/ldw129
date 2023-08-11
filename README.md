@@ -88,6 +88,8 @@
   <img src="https://img.shields.io/badge/WireShark-blue?style=for-the-badge&logo=Wireshark" />
   <img src="https://img.shields.io/badge/Splunk-pale_green?style=for-the-badge&logo=Splunk" />
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+  <img src="https://img.shields.io/badge/Windows%20PowerShell-black?style=for-the-badge&logo=Powershell" />
+  <img src="https://img.shields.io/badge/Command%20Prompt-black?style=for-the-badge&logo=command%20prompt&label=C%3A%5C" />
   <br>
 
   - Operating Systems:
