@@ -25,7 +25,7 @@
 - Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
 - Certified Ethical Hacker &rarr; see more in <a href="https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png">here</a>
 - Python is my first programming language learned!
-- 3 years of computing experience thus far (since 2020) &rarr; see more in [linkedin]
+- 3 years of computing experience thus far (since 2020) &rarr; see more in <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/">here</a>
 - In my free time, I read up on the latest cyber and tech news, watch tutorial videos on networking, programming and cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
 </div>
 
