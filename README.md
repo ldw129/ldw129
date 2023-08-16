@@ -14,9 +14,8 @@
   
   - Personal Email: limdongwan201528@gmail.com
   - Academic Email: LIMD0030@e.ntu.edu.sg
-  
-  [![LinkedIn][linkedin-shield]][linkedin]
-  [![Discord][discord-shield]][discord]
+  - [![LinkedIn][linkedin-shield]][linkedin]
+  - [![Discord][discord-shield]][discord]
     
 </div>
 
