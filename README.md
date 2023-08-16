@@ -11,9 +11,9 @@
   <p><p>
   Feel free to connect with me through the following channels! :)
   <p><p>
-  Personal Email: limdongwan201528@gmail.com
-  <p></p>
-  Academic Email: LIMD0030@e.ntu.edu.sg
+  
+  - Personal Email: limdongwan201528@gmail.com
+  - Academic Email: LIMD0030@e.ntu.edu.sg
   
   [![LinkedIn][linkedin-shield]][linkedin]
   [![Discord][discord-shield]][discord]
