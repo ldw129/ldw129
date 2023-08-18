@@ -75,19 +75,12 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Bash-555?style=for-the-badge&logo=Bourne-Again%20Shell" />
-  <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=Assembly" />
+  <img src="https://img.shields.io/badge/Assembly%20(ARM)-black?style=for-the-badge&logo=ARM" />
   <br>
 
-  - Frameworks and Package Managers:
+  - Frameworks, Tools and Package Managers:
   <img src="https://img.shields.io/badge/react-5b7700?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
-  <img src="https://img.shields.io/badge/Pip-555?style=for-the-badge&logo=Pip" />
-  <img src="https://img.shields.io/badge/apt-555?style=for-the-badge&logo=APT" />
-  <br>
-
-  - Tools:
   <img src="https://img.shields.io/badge/Jupyter-555?style=for-the-badge&logo=Jupyter" />
   <img src="https://img.shields.io/badge/WireShark-blue?style=for-the-badge&logo=Wireshark" />
   <img src="https://img.shields.io/badge/Windows%20PowerShell-black?style=for-the-badge&logo=Powershell" />
@@ -97,6 +90,11 @@
   <img src="https://img.shields.io/badge/VSCode-555?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue" />
   <img src="https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=Eclipse" />
   <img src="https://img.shields.io/badge/CodeBlocks-555?style=for-the-badge&logo=CodeBlocks" />
+  <img src="https://img.shields.io/badge/Notepad%2B%2B-blue?style=for-the-badge&logo=Notepad%2B%2B" />
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
+  <img src="https://img.shields.io/badge/Pip-555?style=for-the-badge&logo=Pip" />
+  <img src="https://img.shields.io/badge/apt-555?style=for-the-badge&logo=APT" />
   <br>
 
   - Operating Systems:
@@ -104,11 +102,8 @@
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&labelColor=black" />
   <img src="https://img.shields.io/badge/Kali%20Linux-purple?style=for-the-badge&logo=Kali%20Linux&logoColor=black" />
   <br>
-
-  - Cloud Databases:
-  <img src="https://img.shields.io/badge/mongodb-536AB0?style=for-the-badge&logo=mongodb" />
-<p><p>
 </div>
+
 <!--
 <div align="center">
 <picture>
