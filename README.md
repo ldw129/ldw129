@@ -5,7 +5,7 @@
   <p><p>
 </div>
 <div align="justify">
-  Hello! I am Lim Dong Wan, a curious and meticulous Penultimate Year NTU B(Eng) Computer Science Undergraduate student, with a flair for Mathematics and a growing interest in the field of cybersecurity and networking. I officially started learning computing and programming concepts in mid-2020, with my first programming language learned being Python. Thereafter, I progressively expanded my knowledge of computing into other programming languages like Java, C and C++, as well as other fields like networking, cybersecurity and artificial intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as programming logic and networking. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
+  Hello! I am Lim Dong Wan, a curious and meticulous Penultimate Year NTU B(Eng) Computer Science Undergraduate student, with a flair for Mathematics and a growing interest in the field of cybersecurity and networking. I officially started learning computing and programming concepts in mid-2020, with my first programming language learned being Python. Thereafter, I progressively expanded my knowledge of computing into other programming languages like Java, C and C++, as well as other fields like Computer Networking, Cybersecurity and even Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as programming logic and networks. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
   <p><p>
   I hope that with the knowledge I have gained and acquired, I can innovate cybersecurity solutions and/or tools that can be used in my job and my daily life, so as to better safeguard myself and others from cyber threats.
   <p><p>
@@ -27,7 +27,7 @@
 - Certified Ethical Hacker &rarr; see more in <a href="https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png">here</a>
 - Python is my first programming language learned!
 - 3 years of computing experience thus far (since 2020) &rarr; see more in <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/">here</a>
-- In my free time, I read up on the latest cyber and tech news, watch tutorial videos on networking, programming and cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
+- In my free time, I read up on the latest cyber and tech news, watch tutorial videos on Computer Networking, Programming and Cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
