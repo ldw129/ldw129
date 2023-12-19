@@ -23,7 +23,7 @@
 <h2> 👨‍💻 About Me</h2>
 <div align="justify">
 
-- Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Cybersecurity
+- Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Security
 - Certified Ethical Hacker &rarr; see more in <a href="https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png">here</a>
 - Python is my first programming language learned!
 - 3 years of computing experience thus far (since 2020) &rarr; see more in <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/">here</a>
