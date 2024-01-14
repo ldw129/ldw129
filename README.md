@@ -5,15 +5,15 @@
   <p><p>
 </div>
 <div align="justify">
-  Hello! I am Lim Dong Wan, a curious and meticulous Penultimate Year NTU B(Eng) Computer Science Undergraduate student, with a flair for Mathematics and a growing interest in the field of cybersecurity and networking. I officially started learning computing and programming concepts in mid-2020, with my first programming language learned being Python. Thereafter, I progressively expanded my knowledge of computing into other programming languages like Java, C and C++, as well as other fields like Computer Networking, Cybersecurity and even Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as programming logic and networks. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
+  Hello! I am Lim Dong Wan, a curious and meticulous Penultimate Year NTU B(Eng) Computer Science Undergraduate student, with a flair for Mathematics and a growing interest in the field of Cybersecurity and Networking. I officially started learning Computing and Programming concepts in mid-2020, with my first programming language learned being Python. Thereafter, I progressively expanded my knowledge of computing into other programming languages like Java, C and C++, as well as other fields like Computer Networking, Cybersecurity and even Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand various Computing concepts, such as Programming logic and networks. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
   <p><p>
-  I hope that with the knowledge I have gained and acquired, I can innovate cybersecurity solutions and/or tools that can be used in my job and my daily life, so as to better safeguard myself and others from cyber threats, and solve complex real-world cybersecurity challenges.
+  I hope that with the knowledge I have gained and acquired, I can innovate solutions and/or tools that can be used to better safeguard myself and others from cyber threats, as well as solve complex real-world cybersecurity challenges!
   <p><p>
   Feel free to connect with me through the following channels! :)
   <p><p>
   
-  - Personal Email: limdongwan201528@gmail.com
-  - Academic Email: LIMD0030@e.ntu.edu.sg
+  - **Personal Email: limdongwan201528@gmail.com**
+  - **Academic Email: LIMD0030@e.ntu.edu.sg**
   - [![LinkedIn][linkedin-shield]][linkedin]
   - [![Discord][discord-shield]][discord]
     
@@ -23,10 +23,10 @@
 <h2> 👨‍💻 About Me</h2>
 <div align="justify">
 
-- Year 3 NTU B(Eng) Computer Science Undergraduate student, intending to specialize in Security
+- **Year 3 NTU B(Eng) Computer Science Undergraduate student**, intending to specialize in Security
 - Certified Ethical Hacker &rarr; see more in <a href="https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png">here</a>
 - Python is my first programming language learned!
-- 3 years of computing experience thus far (since 2020) &rarr; see more in <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/">here</a>
+- **3 years** of computing experience thus far (since 2020) &rarr; see more in <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/">here</a>
 - In my free time, I read up on the latest cyber and tech news, watch tutorial videos on Computer Networking, Programming and Cybersecurity, and trying out online cyber courses as well as CTF's and hackathons.
 </div>
 
@@ -53,8 +53,8 @@
   
   | S/N | Certifications | Completion Date | Organization | Proof |
   | :---: | --- | :---: | --- | :---: |
-  | 1. | Re-Profiling Data Analytics (RDA) | Dec 2020 | Nanyang Polytechnic, School of Information Technology | [RDA-link] |
-  | 2. | Certified Ethical Hacker v11 (CEH) | Dec 2021 | EC-Council | [CEH-link] |
+  | 1. | **Re-Profiling Data Analytics (RDA)** | **Dec 2020** | Nanyang Polytechnic, School of Information Technology | [RDA-link] |
+  | 2. | **Certified Ethical Hacker v11 (CEH)** | **Dec 2021** | EC-Council | [CEH-link] |
     
 </div>
 
