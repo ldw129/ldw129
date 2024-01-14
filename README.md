@@ -7,7 +7,7 @@
 <div align="justify">
   Hello! I am Lim Dong Wan, a curious and meticulous Penultimate Year NTU B(Eng) Computer Science Undergraduate student, with a flair for Mathematics and a growing interest in the field of cybersecurity and networking. I officially started learning computing and programming concepts in mid-2020, with my first programming language learned being Python. Thereafter, I progressively expanded my knowledge of computing into other programming languages like Java, C and C++, as well as other fields like Computer Networking, Cybersecurity and even Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as programming logic and networks. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
   <p><p>
-  I hope that with the knowledge I have gained and acquired, I can innovate cybersecurity solutions and/or tools that can be used in my job and my daily life, so as to better safeguard myself and others from cyber threats.
+  I hope that with the knowledge I have gained and acquired, I can innovate cybersecurity solutions and/or tools that can be used in my job and my daily life, so as to better safeguard myself and others from cyber threats, and solve complex real-world cybersecurity challenges.
   <p><p>
   Feel free to connect with me through the following channels! :)
   <p><p>
@@ -128,10 +128,10 @@
 
   | S/N | Academic Projects | Completion Date | Repo |
   | :---: | --- | :---: | :---: |
-  | 1. | SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis | Apr 2022 | [SC1015-link]
-  | 2. | CC0002 Navigating The Digital World (Term Paper): Reasons Behind Rise of Cyber Attacks and Measures to Mitigate Them | Apr 2022 | [CC0002-link]
-  | 3. | SC2002 Object-Oriented Design & Programming: MOBLIMA | Nov 2022 | [SC2002-link]
-  | 4. | SC2006 Software Engineering: TripSmart App | Apr 2023 | [SC2006-link]
+  | 1. | **SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis** | **Apr 2022** | [SC1015-link]
+  | 2. | **CC0002 Navigating The Digital World (Term Paper): Reasons Behind Rise of Cyber Attacks and Measures to Mitigate Them** | **Apr 2022** | [CC0002-link]
+  | 3. | **SC2002 Object-Oriented Design & Programming: MOBLIMA** | **Nov 2022** | [SC2002-link]
+  | 4. | **SC2006 Software Engineering: TripSmart App** | **Apr 2023** | [SC2006-link]
 
 </div>
 
