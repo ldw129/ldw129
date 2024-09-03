@@ -5,7 +5,7 @@
   <p><p>
 </div>
 <div align="justify">
-  Hello! I am Lim Dong Wan, a curious and meticulous Final Year NTU B(Comp) Computer Science Undergraduate student with a flair for Mathematics and a growing interest in the field of Cybersecurity and Computer Networking. I officially started my learning journey in Computing in 2020 when I was first exposed to the Python programming language. Thereafter, I progressively expanded my knowledge of computing into other programming languages (ie. Java, C and C++), as well as other fields like Computer Networking, Cybersecurity and even Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as programming logic and networking. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
+  Hello! I am Lim Dong Wan, a curious and meticulous Final Year NTU B(Comp) Computer Science Undergraduate student with a flair for Mathematics and a growing interest in the field of Computer Networking and Cybersecurity. I officially started my learning journey in Computing in 2020 when I was first exposed to Python programming language. Thereafter, I progressively expanded my knowledge into other languages (ie. Java, C and C++), as well as other fields like Computer Networking, Cybersecurity, Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as computer logic and networking. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
   <p><p>
   I hope that with the knowledge I have gained and acquired, I can better analyze and understand cyber threats, as well as innovate solutions and/or tools that can be used in my job and my daily life, so as to better safeguard myself and others from the threats we are facing in the digital world we live in today.
   <p><p>
@@ -23,11 +23,11 @@
 <h2> 👨‍💻 About Me</h2>
 <div align="justify">
 
-- **Year 4 NTU B(Comp) Computer Science Undergraduate student**, intending to specialize in Security
+- **Year 4 NTU B(Comp) Computer Science Undergraduate student**, specializing in Security
 - Certified Ethical Hacker &rarr; see more in <a href="https://user-images.githubusercontent.com/78461502/258963279-d76a11e1-bd4d-4fcb-b7e7-e857176b8848.png">here</a>
 - Python is my first programming language learned!
 - **4 years** of computing experience thus far (since 2020) &rarr; see more in <a href="https://www.linkedin.com/in/lim-dong-wan-706605218/">here</a>
-- In my free time, I read up on the latest cyber and tech news, watch tutorial videos on Computer Networking, Programming and Cybersecurity, and trying out online cyber courses (as well as CTF's and hackathons).
+- In my free time, I read up on the latest cyber and tech news, watch tutorial videos on Computer Networking, Programming and Cybersecurity, and trying out online cyber courses (as well as CTF's).
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
