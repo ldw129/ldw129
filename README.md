@@ -46,7 +46,7 @@
 <h2> 📚 Certifications</h2>
 <div align="justify">
 
-  - Professional Certifications:
+Professional Certifications:
 
 </div>
 <div align="center">
@@ -122,16 +122,21 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="Academic Projects"></a>
-<h2>🏫 Academic Projects</h2>
+<a name="Relevant Academic Projects"></a>
+<h2>🏫 Relevant Academic Projects</h2>
 <div align="center">
 
   | S/N | Academic Projects | Completion Date | Repo |
   | :---: | --- | :---: | :---: |
   | 1. | **SC1015 Introduction to Data Science & Artificial Intelligence: Customer Personality Analysis** | **Apr 2022** | [SC1015-link]
   | 2. | **CC0002 Navigating The Digital World (Term Paper): Reasons Behind Rise of Cyber Attacks and Measures to Mitigate Them** | **Apr 2022** | [CC0002-link]
-  | 3. | **SC2002 Object-Oriented Design & Programming: MOBLIMA** | **Nov 2022** | [SC2002-link]
-  | 4. | **SC2006 Software Engineering: TripSmart App** | **Apr 2023** | [SC2006-link]
+  | 3. | **CC0007 Science & Technology for Humanity (Group Proposal/Presentation)** | **Nov 2022** | [CC0007-link]
+  | 4. | **SC2002 Object-Oriented Design & Programming: MOBLIMA** | **Nov 2022** | [SC2002-link]
+  | 5. | **SC2006 Software Engineering: TripSmart App** | **Apr 2023** | [SC2006-link]
+  | 6. | **SC3000 Artificial Intelligence: Reinforcement Learning & Prolog** | **Apr 2023** | [SC3000-link]
+  | 7. | **SC3010 Computer Security (Group Presentation): Case Study on Ryuk Ransomware & Shellshock** | **Nov 2023** | [SC3010-link]
+  | 8. | **SC3030 Advanced Computer Networks (Term Paper): Network Security Protocols** | **Nov 2023** | [SC3030-link]
+  | 9. | **SC2079 Multidisciplinary Design Project (MDP): Robotcar Challenge** | **Oct 2024** | [SC2079-link]
 
 </div>
 
@@ -147,5 +152,10 @@
 [SC1015-link]: https://github.com/ldw129/SC1015-Customer-Personality-Analysis
 [SC2002-link]: https://github.com/ldw129/SC2002-Group-2-MOBLIMA
 [SC2006-link]: https://github.com/ldw129/SC2006-TripSmart
-[SC2207-link]: https://drive.google.com/drive/folders/1wV5-RgJ7-zNuwaKrBWkVSwOi3Jvs302f
+[SC2207-link]: -
+[SC2079-link]: https://github.com/Lester0142/SC2079_Algorithm
+[SC3000-link]: https://github.com/ldw129/ldw129/tree/main/SC3000%20Artificial%20Intelligence
+[SC3010-link]: https://github.com/ldw129/ldw129/tree/main/SC3010%20Computer%20Security
+[SC3030-link]: https://github.com/ldw129/ldw129/tree/main/SC3030%20Advanced%20Computer%20Networks
 [CC0002-link]: https://github.com/ldw129/ldw129/tree/main/CC0002%20Navigating%20the%20Digital%20World
+[CC0007-link]: https://github.com/ldw129/ldw129/tree/main/CC0007%20Science%20%26%20Technology%20for%20Humanity
