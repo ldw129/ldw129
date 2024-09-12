@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <a href="https://github.com/ldw129">
-      <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=2000&pause=500&multiline=true&color=00CA05&weight=800&width=800&height=150&lines=Lim+Dong+Wan;Aspiring+Cyber+Specialist;Computer+Networking+%7C+Cyber+Security+%7C+Data+Science+%7C+AI" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=2000&pause=500&multiline=true&color=00CA05&weight=1000&width=800&height=150&lines=Lim+Dong+Wan;Aspiring+Cyber+Specialist+%7C+CEHv11;Final+Year+Undergraduate,+B(Comp)+Computer+Science;Nanyang+Technological+University;Computer+Networking+%7C+Cyber+Security+%7C+Data+Science+%7C+AI" alt="Typing SVG" />
 </a>
 <br/>
 
