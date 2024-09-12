@@ -31,7 +31,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=ldw129&cc=22272e&tc=00FF1F&ic=fff&bc=0000">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=ldw129&cc=f7f7f7&bc=ffff">
-    <img src="https://github.com/ldw129" alt="GitHub Stats">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ldw129" alt="GitHub Stats">
 </picture>
 </p>
 <div align="justify">
@@ -48,8 +48,10 @@
 <a name="GitHub Stats"></a>
 <h2>📈 GitHub Stats</h2>
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)]
+
+  <a href="https://github.com/ldw129">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 
   
   <picture>
