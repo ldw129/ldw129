@@ -49,11 +49,9 @@
 <h2>📈 GitHub Stats</h2>
 <div align="center">
 
-  <a href="https://github.com/ldw129">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-
-  
+  <picture>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=react&utcOffset=8">
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=swift&utcOffset=8">
