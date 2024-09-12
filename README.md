@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
 
+<a href="https://github.com/ldw129">
+      <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=2000&pause=500&multiline=true&color=00CA05&weight=800&width=800&height=150&lines=Lim+Dong+Wan;Aspiring+Cyber+Specialist;Computer+Networking+%7C+Cyber+Security+%7C+Data+Science+%7C+AI" alt="Typing SVG" />
+</a>
+<br/>
+
 <div align="center">
   <h1>Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
   <p><p>
@@ -21,6 +26,14 @@
 
 <a name="About Me"></a>
 <h2> 👨‍💻 About Me</h2>
+
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=ldw129&cc=22272e&tc=00FF1F&ic=fff&bc=0000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=ldw129&cc=f7f7f7&bc=ffff">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ldw129" alt="GitHub Stats">
+</picture>
+</p>
 <div align="justify">
 
 - **Year 4 NTU B(Comp) Computer Science Undergraduate student**, specializing in Security
@@ -33,11 +46,17 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a name="GitHub Stats"></a>
-<h2>🔥 GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=hacker&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=react&utcOffset=8">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=swift&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=default&utcOffset=8" alt="Productive Time">
+  </picture>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
