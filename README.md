@@ -57,6 +57,10 @@
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=swift&utcOffset=8">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=default&utcOffset=8" alt="Productive Time">
   </picture>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ldw129/github-readme-stats)
+  
+  
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
