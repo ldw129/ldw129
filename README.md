@@ -176,7 +176,7 @@ Professional Certifications:
 [SC2002-link]: https://github.com/ldw129/SC2002-Group-2-MOBLIMA
 [SC2006-link]: https://github.com/ldw129/SC2006-TripSmart
 [SC2207-link]: -
-[SC2079-link]: https://github.com/Lester0142/SC2079_Algorithm
+[SC2079-link]: https://github.com/ldw129/SC2079_Algorithm
 [SC3000-link]: https://github.com/ldw129/ldw129/tree/main/SC3000%20Artificial%20Intelligence
 [SC3010-link]: https://github.com/ldw129/ldw129/tree/main/SC3010%20Computer%20Security
 [SC3030-link]: https://github.com/ldw129/ldw129/tree/main/SC3030%20Advanced%20Computer%20Networks
