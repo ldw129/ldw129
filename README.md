@@ -50,15 +50,18 @@
 <div align="center">
 
   <picture>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ldw129&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=react&utcOffset=8">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=swift&utcOffset=8">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=default&utcOffset=8" alt="Productive Time">
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=react&utcOffset=8">
+      <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=swift&utcOffset=8">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldw129&theme=default&utcOffset=8" alt="Productive Time">
+  </picture>
+  <picture>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/limdongwan201528.png" alt="Your Image Badge" />
   </picture>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ldw129/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ldw129/github-readme-stats) -->
   
   
 </div>
