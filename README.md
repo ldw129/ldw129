@@ -61,7 +61,7 @@
       <img src="https://tryhackme-badges.s3.amazonaws.com/limdongwan201528.png" alt="Your Image Badge" />
   </picture>
 
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ldw129/github-readme-stats) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw129&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ldw129/github-readme-stats)
   
   
 </div>
