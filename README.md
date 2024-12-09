@@ -163,6 +163,7 @@ Professional Certifications:
   | 7. | **SC3010 Computer Security (Group Presentation): Case Study on Ryuk Ransomware & Shellshock** | **Nov 2023** | [SC3010-link]
   | 8. | **SC3030 Advanced Computer Networks (Term Paper): Network Security Protocols** | **Nov 2023** | [SC3030-link]
   | 9. | **SC2079 Multidisciplinary Design Project (MDP): Robotcar Challenge** | **Oct 2024** | [SC2079-link]
+  | 10.| **SC4010 Applied Cryptography: SSL 3.0 POODLE Attack** | **Nov 2024** | [SC4010-link]
 
 </div>
 
@@ -183,5 +184,6 @@ Professional Certifications:
 [SC3000-link]: https://github.com/ldw129/ldw129/tree/main/SC3000%20Artificial%20Intelligence
 [SC3010-link]: https://github.com/ldw129/ldw129/tree/main/SC3010%20Computer%20Security
 [SC3030-link]: https://github.com/ldw129/ldw129/tree/main/SC3030%20Advanced%20Computer%20Networks
+[SC4010-link]: https://github.com/ldw129/SC4010-TLS-MITM-Attack
 [CC0002-link]: https://github.com/ldw129/ldw129/tree/main/CC0002%20Navigating%20the%20Digital%20World
 [CC0007-link]: https://github.com/ldw129/ldw129/tree/main/CC0007%20Science%20%26%20Technology%20for%20Humanity
